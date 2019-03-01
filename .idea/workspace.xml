@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54bfcf28-cc0e-4292-a735-0a3839fad92b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FutureSample.java" afterDir="false" />
-    </list>
+    <list default="true" id="54bfcf28-cc0e-4292-a735-0a3839fad92b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -92,8 +89,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/FutureSample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="24" column="90" selection-start-line="24" selection-start-column="90" selection-end-line="24" selection-end-column="90" />
+            <state relative-caret-position="180">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -240,7 +237,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551450605454" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551451142626" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="project.structure.last.edited" value="Project" />
@@ -271,7 +268,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FutureSample">
+  <component name="RunManager" selected="Application.ComplatableFutureSample">
+    <configuration name="ComplatableFutureSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ComplatableFutureSample" />
+      <module name="rxjava-pres" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FutureSample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FutureSample" />
       <module name="rxjava-pres" />
@@ -308,30 +312,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RxSubjects.testRetry" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="rxjava-pres" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RxSubjects" />
-      <option name="METHOD_NAME" value="testRetry" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="JUnit.RxOperators" />
       <item itemvalue="JUnit.RxOperators.testRetry" />
       <item itemvalue="JUnit.RxSubjects.testDelayWithRebatchRequests" />
-      <item itemvalue="JUnit.RxSubjects.testRetry" />
       <item itemvalue="Application.FutureSample" />
+      <item itemvalue="Application.ComplatableFutureSample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ComplatableFutureSample" />
         <item itemvalue="Application.FutureSample" />
         <item itemvalue="JUnit.RxOperators.testRetry" />
         <item itemvalue="JUnit.RxOperators" />
         <item itemvalue="JUnit.RxSubjects.testDelayWithRebatchRequests" />
-        <item itemvalue="JUnit.RxSubjects.testRetry" />
       </list>
     </recent_temporary>
   </component>
@@ -391,7 +385,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1373" height="783" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29615673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -402,12 +395,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3153014" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3153014" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39876354" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32973805" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32921174" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32921174" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32973805" />
@@ -585,8 +578,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FutureSample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="24" column="90" selection-start-line="24" selection-start-column="90" selection-end-line="24" selection-end-column="90" />
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
